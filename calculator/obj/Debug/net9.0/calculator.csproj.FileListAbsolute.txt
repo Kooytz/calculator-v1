@@ -12,3 +12,4 @@ D:\GitHub\calculator-v1\calculator\obj\Debug\net9.0\refint\calculator.dll
 D:\GitHub\calculator-v1\calculator\obj\Debug\net9.0\calculator.pdb
 D:\GitHub\calculator-v1\calculator\obj\Debug\net9.0\calculator.genruntimeconfig.cache
 D:\GitHub\calculator-v1\calculator\obj\Debug\net9.0\ref\calculator.dll
+D:\GitHub\calculator-v1\calculator\obj\Debug\net9.0\calculator.sourcelink.json
