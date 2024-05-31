@@ -6,6 +6,12 @@ namespace Calculator {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Header();
 
+            while (true) {
+                Calculate();
+            }
+        }
+
+        static void Calculate() {
             Console.Write("\x1b[36mDigite o primeiro número do cálculo:\x1b[0m ");
             string firstNumber = Console.ReadLine();
 
@@ -32,9 +38,9 @@ namespace Calculator {
 
             double result = 0;
 
-            switch(Operator) {
+            switch (Operator) {
                 case '+':
-                    result = firstNumberValid + SecondNumberValid; 
+                    result = firstNumberValid + SecondNumberValid;
                 break;
 
                 case '-':
@@ -46,10 +52,13 @@ namespace Calculator {
                 break;
 
                 case '/':
-                    if (SecondNumberValid == 0) {
+                    if (SecondNumberValid == 0)
+                    {
                         Console.WriteLine("\x1b[31mErro: Divisão por zero!\x1b[0m\n");
                         return;
-                    } else { 
+                    }
+                    else
+                    {
                         result = firstNumberValid / SecondNumberValid;
                     }
                 break;
@@ -58,11 +67,11 @@ namespace Calculator {
             Console.WriteLine($"\n\x1b[32mResultado: {firstNumberValid} {Operator} {SecondNumberValid} = {result}\x1b[0m\n");
         }
 
-        static bool IsValidNumber(string input, out double number) {
+        static bool IsValidNumber(string input, out double number){
             return double.TryParse(input, out number);
         }
 
-        static bool IsValidOperator(char input) {
+        static bool IsValidOperator(char input){
             return input == '+' || input == '-' || input == '*' || input == '/';
         }
 
