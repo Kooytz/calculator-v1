@@ -3,6 +3,7 @@
 namespace Calculator {
     class ConsoleCalculator {
         static void Main(string[] args) {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Header();
 
             Console.Write("\x1b[36mDigite o primeiro número do cálculo:\x1b[0m ");
@@ -66,7 +67,7 @@ namespace Calculator {
         }
 
         static void Header(){
-            Console.WriteLine("\n\x1b[31mDesenvolvido com ❤️ por Koytz. \x1b[0m");
+            Console.WriteLine("\n\x1b[31mDesenvolvido com \u2764  por Koytz. \x1b[0m");
             Console.WriteLine("\x1b[33mProjeto:\u001b[0m Calculator v1");
             Console.WriteLine("\x1b[33mDescrição:\u001b[0m Faça calculos de soma, subtração, multiplicação e divisão diretamente pelo console.");
             Console.WriteLine("\x1b[33mData de inicialização do desenvolvimento:\u001b[0m 26/05/2024.");
