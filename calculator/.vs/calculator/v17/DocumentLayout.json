@@ -1,12 +1,38 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\calculator-v1\\calculator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF44F897-107A-47BB-9097-781C541F9CB1}|calculator.csproj|d:\\github\\calculator-v1\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF44F897-107A-47BB-9097-781C541F9CB1}|calculator.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculator.cs",
+              "DocumentMoniker": "D:\\GitHub\\calculator-v1\\calculator\\calculator.cs",
+              "RelativeDocumentMoniker": "calculator.cs",
+              "ToolTip": "D:\\GitHub\\calculator-v1\\calculator\\calculator.cs",
+              "RelativeToolTip": "calculator.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:21:49.138Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

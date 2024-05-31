@@ -1,0 +1,7 @@
+D:\GitHub\calculator-v1\calculator\bin\Release\calculator.exe.config
+D:\GitHub\calculator-v1\calculator\bin\Release\calculator.exe
+D:\GitHub\calculator-v1\calculator\bin\Release\calculator.pdb
+D:\GitHub\calculator-v1\calculator\obj\x86\Release\calculator.csproj.AssemblyReference.cache
+D:\GitHub\calculator-v1\calculator\obj\x86\Release\calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\calculator-v1\calculator\obj\x86\Release\calculator.exe
+D:\GitHub\calculator-v1\calculator\obj\x86\Release\calculator.pdb

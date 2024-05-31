@@ -1,0 +1,7 @@
+D:\GitHub\calculator-v1\calculator\bin\Debug\ConsoleApplication.exe.config
+D:\GitHub\calculator-v1\calculator\bin\Debug\ConsoleApplication.exe
+D:\GitHub\calculator-v1\calculator\bin\Debug\ConsoleApplication.pdb
+D:\GitHub\calculator-v1\calculator\obj\x86\Debug\calculator.csproj.AssemblyReference.cache
+D:\GitHub\calculator-v1\calculator\obj\x86\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\calculator-v1\calculator\obj\x86\Debug\ConsoleApplication.exe
+D:\GitHub\calculator-v1\calculator\obj\x86\Debug\ConsoleApplication.pdb
